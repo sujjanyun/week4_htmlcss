@@ -1,0 +1,21 @@
+html {
+    font-size: 16px;
+}
+
+div {
+    margin-top: 16 px;
+    margin-bottom: 16px;
+}
+
+.wrapper {
+    background-color: pink;
+    margin-bottom: 48px;
+}
+
+.address {
+    background-color: lightblue;
+}
+
+.wrapper.bg-pink {
+    background-color: pink;
+}
